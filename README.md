@@ -13,4 +13,4 @@ Ye repo meri GitHub seekhne ki practice wali jagah hai.
 
 - [x] GitHub account banaya
 - [x] Pehla repository banaya
-- [ ] README ko apne shabdon me sajaya
+- [x] README ko apne shabdon me sajaya
