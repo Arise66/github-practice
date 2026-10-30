@@ -8,6 +8,7 @@ Ye repo meri GitHub seekhne ki practice wali jagah hai.
 - GitHub ko designer ki nazar se samajhna
 - Repository, README aur Commit ka matlab
 - Branch, Pull Request aur design review
+- Apne kaam ki review karna (Branch aur Pull Request)
 
 ## Mera safar ab tak
 
