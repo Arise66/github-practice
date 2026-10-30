@@ -9,6 +9,7 @@ Ye repo meri GitHub seekhne ki practice wali jagah hai.
 - Repository, README aur Commit ka matlab
 - Branch, Pull Request aur design review
 - Apne kaam ki review karna (Branch aur Pull Request)
+- branch done 
 
 ## Mera safar ab tak
 
