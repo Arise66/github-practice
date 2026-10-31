@@ -16,4 +16,4 @@ Ye repo meri GitHub seekhne ki practice wali jagah hai.
 - [x] GitHub account banaya
 - [x] Pehla repository banaya
 - [x] README ko apne shabdon me sajaya
- ## Fixes #3
+
